@@ -1,8 +1,8 @@
 //"Am I overweight?" program. 
 String weightstring = "";
 String heightstring = "";
-float weight = 0;
-float height = 0;
+float weight;
+float height;
 float bmi;
 float res = 0;
 
